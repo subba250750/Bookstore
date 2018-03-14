@@ -73,7 +73,7 @@
 	
 	
 	<build>
-		<finalName>AviExample2</finalName>
+		<finalName>DevOpsPipeline</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
